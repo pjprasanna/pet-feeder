@@ -14,7 +14,7 @@ Servo servo;
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 #define WIFI_SSID "MZH" //wifi_name
-#define WIFI_PASS "ALLAH007#" //wifi_password
+#define WIFI_PASS "ALLAH007#" //wifi_password of your hotspot connected
 
 #define MQTT_SERV "io.adafruit.com"
 #define MQTT_PORT 1883
@@ -115,6 +115,7 @@ void loop()
       {
         feed_hour = 10;
         feed_minute = 30; 
+        //time to be set according to the time displayed in LCD screen module
       }
       /*if (!strcmp((char*) onofff.lastread, "Afternoon"))
       {
@@ -125,7 +126,8 @@ void loop()
       {
         feed_hour = 6;
         feed_minute = 30; 
-      }*/
+      }*/ // IFTTT premium subscription neeeded for adding additional commands
+      
      }
    }
    if( hh == feed_hour && mm == feed_minute &&feed==true) //Comparing the current time with the Feed time
