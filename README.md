@@ -10,6 +10,17 @@ This project is a pet feeder that uses Internet of Things (IoT) technology and G
 
 ->Adafruit IO: Used as a cloud platform for data logging and communication between the Smart Pet Feeder and the mobile/web interface. Adafruit IO provides an easy-to-use platform for managing and visualizing data from the pet feeder.
 
+
+# LIBRARIES TO BE INSTALLED
+
+->[Adafruit MQTT](https://github.com/adafruit/Adafruit_MQTT_Library)
+
+->[NTP Client](https://github.com/arduino-libraries/NTPClient)
+
+->[Wire](https://github.com/PaulStoffregen/Wire)
+
+->[Liquid Crystral I2C](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
+
 # HARDWARE REQUIREMENTS
 
 ->LCD 16x2: A 16x2 LCD display is used to provide a visual interface for displaying information such as feeding schedules, Time of the day of the pet feeder.
