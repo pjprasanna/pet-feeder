@@ -5,7 +5,7 @@ This project is a pet feeder that uses Internet of Things (IoT) technology and G
 # The software requirements for the Smart Pet Feeder project include:
 ->Arduino IDE: Used for programming the NodeMCU microcontroller to control the feeding schedule and portion control of the pet feeder.
 
-->FTTT (If This Then That): Integrated with the Smart Pet Feeder to enable automation and remote control. IFTTT allows users to create applets that trigger actions based on predefined conditions or events, enhancing the functionality of the pet feeder.
+->IFTTT (If This Then That): Integrated with the Smart Pet Feeder to enable automation and remote control. IFTTT allows users to create applets that trigger actions based on predefined conditions or events, enhancing the functionality of the pet feeder.
 
 ->Adafruit IO: Used as a cloud platform for data logging and communication between the Smart Pet Feeder and the mobile/web interface. Adafruit IO provides an easy-to-use platform for managing and visualizing data from the pet feeder.
 
