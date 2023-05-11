@@ -1,15 +1,17 @@
-# Pet-Feeder
+# PET FEEDER
 This project is a pet feeder that uses Internet of Things (IoT) technology and Google Assistant to help pet owners feed their furry friends remotely. The pet feeder can be controlled through a  mobile application(Google Home) using Google Assistant.
 
 
-# Software requirements for the Smart Pet Feeder project include:
+# SOFTWARE REQUIREMENTS
+
 ->Arduino IDE: Used for programming the NodeMCU microcontroller to control the feeding schedule and portion control of the pet feeder.
 
 ->IFTTT (If This Then That): Integrated with the Smart Pet Feeder to enable automation and remote control. IFTTT allows users to create applets that trigger actions based on predefined conditions or events, enhancing the functionality of the pet feeder.
 
 ->Adafruit IO: Used as a cloud platform for data logging and communication between the Smart Pet Feeder and the mobile/web interface. Adafruit IO provides an easy-to-use platform for managing and visualizing data from the pet feeder.
 
-# Hardware requirements for the Smart Pet Feeder project include:
+# HARDWARE REQUIREMENTS
+
 ->LCD 16x2: A 16x2 LCD display is used to provide a visual interface for displaying information such as feeding schedules, Time of the day of the pet feeder.
 
 ->I2C: I2C (Inter-Integrated Circuit) protocol is utilized to interface the LCD with the NodeMCU microcontroller, enabling efficient communication between the two devices.
@@ -20,7 +22,7 @@ This project is a pet feeder that uses Internet of Things (IoT) technology and G
 
 ->Breadboard: The breadboard provides a platform for easily connecting and prototyping the various electronic components of the Smart Pet Feeder, allowing for quick and convenient assembly and testing.
 
-# Working
+# WORKING
 
 Connect all the devices according to the circuit diagram
 
@@ -40,7 +42,7 @@ Connect all the devices according to the circuit diagram
 
 Make sure that you connect your laptop and NodeMCU in same wifi hotspot.
 
-# Circuit diagram
+# CIRCUIT DIAGRAM
 
 ![Circuit-Diagram-of-Google-Assistant-controlled-Pet-Feeder](https://github.com/pjprasanna/pet-feeder/assets/89349460/ce8e84c7-cc0e-4dce-a6ca-4cfe7f8c693b)
 
