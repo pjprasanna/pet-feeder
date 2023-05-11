@@ -19,7 +19,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 #define MQTT_SERV "io.adafruit.com"
 #define MQTT_PORT 1883
 #define MQTT_NAME "zuhayr2409"
-#define MQTT_PASS "aio_LQfw046bBmVCyVM6KI9aqE0WDPPq"
+#define MQTT_PASS "Your Key from ardafruit account"
 
 int SERVO_PIN = D3;    // The pin which the servo is attached to
 int CLOSE_ANGLE = 0;  // The closing angle of the servo motor arm
