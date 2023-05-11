@@ -18,7 +18,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 #define MQTT_SERV "io.adafruit.com"
 #define MQTT_PORT 1883
-#define MQTT_NAME "zuhayr2409"
+#define MQTT_NAME "*****"
 #define MQTT_PASS "Your Key from ardafruit account"
 
 int SERVO_PIN = D3;    // The pin which the servo is attached to
