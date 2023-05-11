@@ -25,11 +25,17 @@ This project is a pet feeder that uses Internet of Things (IoT) technology and G
 Connect all the devices according to the circuit diagram
 
 ->create IFTTT and ardafruit account
+
   ->IFTT, for this tag,Create an applet and create a trigger(voice command) for functioning.
-  ->For then tag, create a Feedname (onoff in my code), then data as 'ON' (in my code)
+  
+  ->For then tag, create a Feedname (onoff in my code), then data as 'ON' (in my code).
+  
   ->create another applet for a timed feeding.
+  
  ->GoogleHome,
+ 
   ->In this go to works with google add the IFTTT account and link it.
+  
   ->Now open the mic and speak into the mic the feedname which you have entered in the IFTTT
 
 make sure you connect your laptop and nodeMCU in same wifihotspot.
