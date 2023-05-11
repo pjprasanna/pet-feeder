@@ -20,7 +20,7 @@ This project is a pet feeder that uses Internet of Things (IoT) technology and G
 
 ->Breadboard: The breadboard provides a platform for easily connecting and prototyping the various electronic components of the Smart Pet Feeder, allowing for quick and convenient assembly and testing.
 
-# working
+# Working
 
 Connect all the devices according to the circuit diagram
 
