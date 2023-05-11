@@ -40,6 +40,8 @@ Connect all the devices according to the circuit diagram
 
 make sure you connect your laptop and nodeMCU in same wifihotspot.
 
+https://github.com/pjprasanna/pet-feeder/issues/1#issue-1706094633
+
 
 
 
