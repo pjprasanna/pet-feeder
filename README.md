@@ -38,7 +38,7 @@ Connect all the devices according to the circuit diagram
   
   ->Now open the mic and speak into the mic the feedname which you have entered in the IFTTT
 
-make sure you connect your laptop and nodeMCU in same wifihotspot.
+Make sure that you connect your laptop and NodeMCU in same wifi hotspot.
 
 ![Circuit-Diagram-of-Google-Assistant-controlled-Pet-Feeder](https://github.com/pjprasanna/pet-feeder/assets/89349460/ce8e84c7-cc0e-4dce-a6ca-4cfe7f8c693b)
 
