@@ -40,7 +40,8 @@ Connect all the devices according to the circuit diagram
 
 make sure you connect your laptop and nodeMCU in same wifihotspot.
 
-https://github.com/pjprasanna/pet-feeder/issues/1#issue-1706094633
+![Circuit-Diagram-of-Google-Assistant-controlled-Pet-Feeder](https://github.com/pjprasanna/pet-feeder/assets/89349460/ce8e84c7-cc0e-4dce-a6ca-4cfe7f8c693b)
+
 
 
 
