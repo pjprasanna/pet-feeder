@@ -13,12 +13,12 @@ NTPClient timeClient(ntpUDP, "pool.ntp.org", 19800,60000);
 Servo servo;
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-#define WIFI_SSID "MZH" //wifi_name
-#define WIFI_PASS "ALLAH007#" //wifi_password
+#define WIFI_SSID "your wifi name" //wifi_name
+#define WIFI_PASS "your wifi password" //wifi_password
 
 #define MQTT_SERV "io.adafruit.com"
 #define MQTT_PORT 1883
-#define MQTT_NAME "*****"
+#define MQTT_NAME "your ardafruit key"
 #define MQTT_PASS "Your Key from ardafruit account"
 
 int SERVO_PIN = D3;    // The pin which the servo is attached to
